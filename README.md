@@ -32,3 +32,5 @@ The HR department gathered the data from 3 months.
 5. Understanding the Calculate Function in DAX is very important.
 6. We can also create additional columns to our Data using Dax.
 
+During the data transformation we have referred to the following blog post : https://blog.crossjoin.co.uk/2018/07/09/power-bi-combine-multiple-excel-worksheets/?subscribe=success#subscribe-blog-blog_subscription-3
+
