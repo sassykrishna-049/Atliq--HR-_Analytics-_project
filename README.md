@@ -1,5 +1,11 @@
 # Atliq HR Analytics Project
 
+This is a guided project from the Codebasics Youtube channel .
+Here are all the links:
+
+LinkedIn Post link: https://www.linkedin.com/feed/update/urn:li:activity:7076667166179098624/
+Youtube Playlist Link: https://www.youtube.com/playlist?list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM
+
 ## Understanding the HR Requirements
 
 The excel data provided by our client Pinali shows the employee data who are working in ATliq Hardware company for the three months i,e Apr- June for the fiscal year 2022.
