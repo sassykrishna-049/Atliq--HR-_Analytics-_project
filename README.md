@@ -1,4 +1,4 @@
-# Atliq--HR-_Analytics-_project
+# Atliq HR Analytics Project
 
 ## Understanding the HR Requirements
 
