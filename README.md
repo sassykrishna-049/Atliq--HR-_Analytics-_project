@@ -36,4 +36,13 @@ During the data transformation we have referred to the following blog post : htt
 
 I used a DAX Formatter Website to write my DAX expressions : https://www.daxformatter.com/
 
+## Insights taken from them
+1. The WFH% graph clearly shows a tendency towards increased WFH preference on Thursdays and Fridays (around 15%).
+2. The highest attendance rates are on Mondays, Tuesdays, and Wednesdays (about 85%).
+3. If the organisation offers a hybrid work model, we can schedule any events so that we can maximise participation during the first three days of the week.
+4. The sick leave trend line is slightly rising, and on Mondays, we have the highest sick leave percentage. After analysing the data for three months, we can see that the highest percentage, or 2.55%, occurred in the month of June.
+5. Since more employees are ready to WFH on Thursdays and Fridays, we may schedule any maintenance activities around those days.
+
+   
+
 
