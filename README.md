@@ -43,6 +43,9 @@ I used a DAX Formatter Website to write my DAX expressions : https://www.daxform
 4. The sick leave trend line is slightly rising, and on Mondays, we have the highest sick leave percentage. After analysing the data for three months, we can see that the highest percentage, or 2.55%, occurred in the month of June.
 5. Since more employees are ready to WFH on Thursdays and Fridays, we may schedule any maintenance activities around those days.
 
+## Final Dashboard
+![alt text](https://github.com/sassykrishna-049/Atliq--HR-_Analytics-_project/blob/main/Dashboard.png)
+
    
 
 
