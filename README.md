@@ -3,8 +3,9 @@
 This is a guided project from the Codebasics Youtube channel .
 Here are all the links:
 
-LinkedIn Post link: https://www.linkedin.com/feed/update/urn:li:activity:7076667166179098624/
-Youtube Playlist Link: https://www.youtube.com/playlist?list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM
+[LinkedIn Post link](https://www.linkedin.com/feed/update/urn:li:activity:7076667166179098624/)
+
+[Youtube Playlist Link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM)
 
 ## Understanding the HR Requirements
 
